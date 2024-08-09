@@ -14,7 +14,7 @@ VERSION = os.environ['GITHUB_SHA']
 # CONFIGURATION PARAMETERS
 # Forks should change these to publish to their own infrastructure.
 #
-ROBUST_CDN_URL = "http://fortunes-tide.space:8080/"
+ROBUST_CDN_URL = "https://fortunes-tide.space/"
 FORK_ID = "fortunes_tide"
 
 def main():
